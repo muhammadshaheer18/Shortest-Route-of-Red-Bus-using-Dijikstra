@@ -95,6 +95,8 @@ This project is intended for academic learning and demonstration purposes.
 ---
 
 ## Created by:
-21K4568 MUHAMMAD ALI k214568@nu.edu.pk
-21K3323 MUHAMMAD SHAHEER k213323@nu.edu.pk
-K213175 SYED MUHAMMAD TAQI BAQUER k213175@nu.edu.pk
+21K4568 Muhammad Ali k214568@nu.edu.pk
+---
+21K3323 Muhammad Shaheer k213323@nu.edu.pk
+---
+K213175 Syed Muhammad Taqi k213175@nu.edu.pk
